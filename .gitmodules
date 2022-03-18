@@ -2,3 +2,7 @@
 	path = filhoA
 	url = https://github.com/jairabu/filhoA.git
 	branch = main
+[submodule "filhoB"]
+	path = filhoB
+	url = https://github.com/jairabu/filhoB.git
+	branch = main
